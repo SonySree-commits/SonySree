@@ -64,7 +64,7 @@ Analyzed financial datasets to identify sales trends, profit patterns, and key b
 
 #### Repository
 
-🔗 Add your GitHub project link here
+🔗 https://github.com/SonySree-commits/Financial-Data-Analysis-using-Power-BI-Project
 
 ---
 
