@@ -96,7 +96,7 @@ Designed and developed a SQL-based Employee Management System to manage employee
 
 #### Repository
 
-🔗 Add your GitHub project link here
+🔗 https://github.com/SonySree-commits/SQL-Project
 
 ---
 
